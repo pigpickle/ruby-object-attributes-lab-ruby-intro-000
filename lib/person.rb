@@ -22,3 +22,5 @@ Mike = Person.new
 
 Mike.name = "Adamczyk"
 Mike.job = "TSA"
+
+puts Mike.name
