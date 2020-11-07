@@ -24,3 +24,4 @@ Mike.name = "Adamczyk"
 Mike.job = "TSA"
 
 puts Mike.name
+puts Mike.job
