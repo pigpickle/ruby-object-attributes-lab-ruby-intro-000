@@ -20,5 +20,5 @@ end
 
 Mike = Person.new
 
-Mike.name("Adamczyk")
-Mike.job("TSA")
+Mike.name = ("Adamczyk")
+Mike.job = ("TSA")
